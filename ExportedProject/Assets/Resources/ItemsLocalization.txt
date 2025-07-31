@@ -1,0 +1,15 @@
+1, Key, Key
+2, Nippers, Nippers
+3, Insulating, Insulating
+4, Screwdriver, Screwdriver
+5, Nail clipper, Nail clipper
+6, Pick part A, Pick part A
+7, Pick part B, Pick part B
+8, Pick, Pick
+9, Saw, Saw
+10, Wrench, Wrench
+11, Liver, Liver
+12, Bar, Bar
+13, Special bar, Special bar
+14, Hammer, Hammer
+15, Passkey, Passkey
